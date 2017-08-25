@@ -12,7 +12,10 @@
         
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
     
-
+<style>
+        body {
+            padding-top: 70px;}
+        </style>
     
     </head>
 
@@ -20,7 +23,7 @@
 
     <div class="container">
 
-            <nav class="navbar navbar-expand-lg navbar-light bg-light navbar-fixed-top">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
               <a class="navbar-brand" href="#">Табуретки и стулья</a>
               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -38,6 +41,7 @@
                     <a class="nav-link disabled" href="#">Disabled</a>
                   </li>
                 </ul>
+                  <strong>Звоните: +7 906 712-1001</strong>
                   <!--
                 <form class="form-inline my-2 my-lg-0">
                   <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
