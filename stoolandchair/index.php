@@ -125,7 +125,7 @@
 
       <div class="row featurette">
         <div class="col-md-7 order-md-2">
-          <h2 class="featurette-heading">Разборный стул "Guido"<span class="text-muted">ХИТ ПРОДАЖ.</span></h2>
+          <h2 class="featurette-heading">Разборный стул "Guido"<span class="text-muted"><br>ХИТ ПРОДАЖ.</span></h2>
           <p class="lead">Габариты(мм) ДхШхВ: 518х636х846. Материал: березавая фанера. Покрытие: полиуретан/краска/лак/б.покрытия</p>
         </div>
         <div class="col-md-5 order-md-1">
