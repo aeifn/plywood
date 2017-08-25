@@ -181,17 +181,31 @@
         </div>
       </div>
 	  
+    
+    
 <!--rigth text Alignment-->
       <hr class="featurette-divider">
 
       <div class="row featurette">
         <div class="col-md-7 order-md-2">
-          <h2 class="featurette-heading">Стул "Poet"<span class="text-muted">Классика</span></h2>
-          <p class="lead">Материал: березовая фанера<br>Покрытие на выбор: краска/лак/без покрытия<br>Цвет на выбор<br>4872  ₽<br>Закажите прямо сейчас 8-906-712-1001</p>
-        </div>
+          <h2 class="featurette-heading">Стул &laquo;Поэт&raquo;
+              <br/>
+              <span class="text-muted">Классика</span></h2>
+          <p class="lead">
+              Материал: 
+              <span class="badge badge-light">березовая фанера</span>
+              <br>Покрытие:
+              <span class="badge badge-light">краска</span>
+              <span class="badge badge-light">лак</span>
+              <span class="badge badge-light">без покрытия</span>
+              <br>Цвет на выбор
+            <h2><span class="badge badge-success">4872  ₽</span></h2>
+            <br><strong>Звоните прямо сейчас: +7 906 712-1001</strong>        
+          </div>
         <div class="col-md-5 order-md-1">
           <img class="featurette-image img-fluid mx-auto" src="img/chair11.jpg" alt="Generic placeholder image">
         </div>
+          
       </div>	  
 	  
 <!--left text Alignment-->
@@ -199,8 +213,20 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Стул "Triple"<span class="text-muted">Специально для тещи</span></h2>
-          <p class="lead">Материал: березовая фанера<br>Покрытие на выбор: краска/лак/без покрытия<br>Цвет на выбор<br>4872  ₽<br>Закажите прямо сейчас 8-906-712-1001</p>
+          <h2 class="featurette-heading">Стул &laquo;Triple&raquo;<br/>
+              <span class="text-muted">Специально для тещи</span></h2>
+          <p class="lead">Материал: 
+              <span class="badge badge-light">березовая фанера</span>
+              <br>
+              Покрытие на выбор:
+              <span class="badge badge-light">краска</span>
+              <span class="badge badge-light">лак</span>
+              <span class="badge badge-light">без покрытия</span>
+              <br>
+              Цвет на выбор
+            <h2><span class="badge badge-success">4872  ₽</span></h2>
+            <br><strong>Закажите по телефону: +7 906 712-1001</strong>        
+            </p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-fluid mx-auto" src="img/chair14.jpg" alt="Generic placeholder image">
