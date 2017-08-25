@@ -129,8 +129,9 @@
               <span class="badge badge-primary">Хит продаж!</span></h2>
             
           <p class="lead">Габариты: 518&times;636&times;846 см.
-              <br>Материал: березовая фанера
-              <br>Покрытие на выбор:
+              <br>Материал: 
+              <span class="badge badge-light">березовая фанера</span>
+              <br>Покрытие:
               <span class="badge badge-light">краска</span>
               <span class="badge badge-light">лак</span>
               <span class="badge badge-light">без покрытия</span>
