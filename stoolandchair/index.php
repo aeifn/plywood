@@ -280,9 +280,19 @@
 
       <div class="row featurette">
         <div class="col-md-7 order-md-2">
-          <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-        </div>
+          <h2 class="featurette-heading">Стул &laquo;Барный&raquo;
+              <span class="badge badge-primary">Хит продаж!</span></h2>
+          <p class="lead">
+              Материал: 
+              <span class="badge badge-light">березовая фанера</span>
+              <br>Покрытие:
+              <span class="badge badge-light">краска</span>
+              <span class="badge badge-light">лак</span>
+              <span class="badge badge-light">без покрытия</span>
+              <br>Цвет на выбор
+            <h2><span class="badge badge-success">5184  ₽</span></h2>
+            <br><strong>Звоните прямо сейчас: +7 906 712-1001</strong>        
+          </div>
         <div class="col-md-5 order-md-1">
           <img class="featurette-image img-fluid mx-auto" src="img/chair1.jpg" alt="Generic placeholder image">
         </div>
