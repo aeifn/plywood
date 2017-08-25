@@ -401,19 +401,19 @@
         
         
       
-        <!-- <?php -->
+        <?php
 
 
-        <!-- $i=glob('img/*'); -->
-        <!-- foreach($i as $v) { -->
-        <!-- ?> -->
-            <!-- <img class="rounded" width="100%" src="<?=$v?>" /> -->
-        <!-- <br /> -->
-        <!-- <?php -->
-        <!-- } -->
+        $i=glob('img/*');
+        foreach($i as $v) {
+        ?>
+            <img class="rounded" width="100%" src="<?=$v?>" />
+        <br />
+        <?php
+        }
 
 
-        <!-- ?> -->
+        ?>
     
             <!-- Optional JavaScript -->
             <!-- jQuery first, then Popper.js, then Bootstrap JS -->
