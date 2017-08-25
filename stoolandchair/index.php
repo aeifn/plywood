@@ -127,7 +127,7 @@
         <div class="col-md-7 order-md-2">
             
           <h2>Стул &laquo;Guido&raquo;
-              <span class="badge badge-primary"><br>Хит продаж!</span></h2>
+              <span class="badge badge-primary"><br><br>Хит продаж!</span></h2>
             
           <p class="lead">Габариты(мм) ДхШхВ: 518х636х846
               <br>Материал: березовая фанера
