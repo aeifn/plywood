@@ -77,19 +77,12 @@
 
       <div class="row featurette">
         <div class="col-md-7 order-md-2">
-<<<<<<< HEAD
-<<<<<<< HEAD
             
           <h2>Стул &laquo;Guido&raquo;
               <span class="badge badge-primary"><br><br>Хит продаж!</span></h2>
-=======
-          <h2 class="featurette-heading">Стул &laquo;Guido&raquo;
-=======
           <h2 class="featurette-heading">Стул &laquo;Гвидо&raquo;
->>>>>>> 5a9a446ddf5a11fae0deda70041ef84ded933ba1
               <span class="badge badge-primary">Хит продаж!</span></h2>
->>>>>>> f42784f83d634758f413fce28c12ceba9cf2e87b
-            
+         
           <p class="lead">Габариты: 51&times;63&times;84 см.
               <br>Материал: 
               <span class="badge badge-light">березовая фанера</span>
