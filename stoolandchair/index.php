@@ -154,7 +154,7 @@
       <div class="row featurette">
         <div class="col-md-7">
             
-          <h2 class="featurette-heading">Стул &laquo;Salomon&raquo;<span class="text-muted"><br>Статность в каждой детали</span></h2>
+          <h2 class="featurette-heading">Стул &laquo;Саломон&raquo;<span class="text-muted"><br>Статность в каждой детали</span></h2>
             
           <p class="lead">Материал: 
               <span class="badge badge-light">березовая фанера</span>
