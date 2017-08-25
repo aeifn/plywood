@@ -140,7 +140,7 @@
       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">Стул "Salomon"<span class="text-muted"><br>Статность в каждой детали</span></h2>
-          <p class="lead">Материал: березовая фанера<br>Покрытие на выбор: краска/лак/без покрытия<br>Цвет на выбор<br>4872  ₽</p>
+          <p class="lead">Материал: березовая фанера<br>Покрытие на выбор: краска/лак/без покрытия<br>Цвет на выбор<br>4872  ₽<br>Закажите прямо сейчас 8-906-712-1001</p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-fluid mx-auto" src="img/chair12.jpg" alt="Generic placeholder image">
@@ -152,8 +152,8 @@
 
       <div class="row featurette">
         <div class="col-md-7 order-md-2">
-          <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <h2 class="featurette-heading">Стул "Poet"<span class="text-muted">Классика</span></h2>
+          <p class="lead">Материал: березовая фанера<br>Покрытие на выбор: краска/лак/без покрытия<br>Цвет на выбор<br>4872  ₽<br>Закажите прямо сейчас 8-906-712-1001</p>
         </div>
         <div class="col-md-5 order-md-1">
           <img class="featurette-image img-fluid mx-auto" src="img/chair11.jpg" alt="Generic placeholder image">
@@ -165,8 +165,8 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Разборный стул №1. <span class="text-muted">It'll blow your mind.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <h2 class="featurette-heading">Стул "Triple"<span class="text-muted">Специально для тещи</span></h2>
+          <p class="lead">Материал: березовая фанера<br>Покрытие на выбор: краска/лак/без покрытия<br>Цвет на выбор<br>4872  ₽<br>Закажите прямо сейчас 8-906-712-1001</p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-fluid mx-auto" src="img/chair14.jpg" alt="Generic placeholder image">
