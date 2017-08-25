@@ -125,7 +125,8 @@
 
       <div class="row featurette">
         <div class="col-md-7 order-md-2">
-          <h2 class="featurette-heading">Стул &laquo;Guido&raquo;
+            
+          <h2>Стул &laquo;Guido&raquo;
               <span class="badge badge-primary"><br>Хит продаж!</span></h2>
             
           <p class="lead">Габариты(мм) ДхШхВ: 518х636х846
