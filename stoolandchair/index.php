@@ -136,11 +136,13 @@
               <span class="badge badge-light">лак</span>
               <span class="badge badge-light">без покрытия</span>
               <br>Цвет на выбор
-              <h2><span class="badge badge-success"><strong>3980 ₽</strong></span></h2>
+              <h2><span class="badge badge-success">3980 ₽</span></h2>
               <br><strong>Звоните: +7 906 712-1001</strong>
             </p>
 		  
         </div>
+        
+        
         <div class="col-md-5 order-md-1">
           <img class="featurette-image img-fluid mx-auto" src="img/chair16.jpg" alt="Generic placeholder image">
         </div>
@@ -151,8 +153,18 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Стул "Salomon"<span class="text-muted"><br>Статность в каждой детали</span></h2>
-          <p class="lead">Материал: березовая фанера<br>Покрытие на выбор: краска/лак/без покрытия<br>Цвет на выбор<br>4872  ₽<br>Закажите прямо сейчас 8-906-712-1001</p>
+            
+          <h2 class="featurette-heading">Стул &laquo;Salomon&raquo;<span class="text-muted"><br>Статность в каждой детали</span></h2>
+            
+          <p class="lead">Материал: 
+              <span class="badge badge-light">березовая фанера</span>
+              <br>Покрытие: 
+              <span class="badge badge-light">краска</span>
+              <span class="badge badge-light">лак</span>
+              <span class="badge badge-light">без покрытия</span>
+              <br>Цвет на выбор
+              <h2><span class="badge badge-success">4872 ₽</span></h2>
+              <br><strong>Закажите прямо сейчас: +7 906 712-1001</strong>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-fluid mx-auto" src="img/chair12.jpg" alt="Generic placeholder image">
