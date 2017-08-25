@@ -126,17 +126,25 @@
       <div class="row featurette">
         <div class="col-md-7 order-md-2">
 <<<<<<< HEAD
+<<<<<<< HEAD
             
           <h2>Стул &laquo;Guido&raquo;
               <span class="badge badge-primary"><br><br>Хит продаж!</span></h2>
 =======
           <h2 class="featurette-heading">Стул &laquo;Guido&raquo;
+=======
+          <h2 class="featurette-heading">Стул &laquo;Гвидо&raquo;
+>>>>>>> 5a9a446ddf5a11fae0deda70041ef84ded933ba1
               <span class="badge badge-primary">Хит продаж!</span></h2>
 >>>>>>> f42784f83d634758f413fce28c12ceba9cf2e87b
             
-          <p class="lead">Габариты(мм) ДхШхВ: 518х636х846
-              <br>Материал: березовая фанера
-              <br>Покрытие на выбор: краска/лак/без покрытия
+          <p class="lead">Габариты: 518&times;636&times;846 см.
+              <br>Материал: 
+              <span class="badge badge-light">березовая фанера</span>
+              <br>Покрытие:
+              <span class="badge badge-light">краска</span>
+              <span class="badge badge-light">лак</span>
+              <span class="badge badge-light">без покрытия</span>
               <br>Цвет на выбор
               <h2><span class="badge badge-success"><strong>3980 ₽</strong></span></h2>
               <br><strong>Звоните: +7 906 712-1001</strong>
