@@ -126,7 +126,7 @@
       <div class="row featurette">
         <div class="col-md-7 order-md-2">
           <h2 class="featurette-heading">Стул "Guido"<span class="text-muted"><br>ХИТ ПРОДАЖ!</span></h2>
-          <p class="lead">Габариты(мм) ДхШхВ: 518х636х846. <br>Материал: березавая фанера. <br>Покрытие на выбор: полиуретан/краска/лак</p>
+          <p class="lead">Габариты(мм) ДхШхВ: 518х636х846 <br>Материал: березовая фанера <br>Покрытие на выбор: полиуретан/краска/лак <br>Цена 4 872 р</p>
         </div>
         <div class="col-md-5 order-md-1">
           <img class="featurette-image img-fluid mx-auto" src="img/chair16.jpg" alt="Generic placeholder image">
