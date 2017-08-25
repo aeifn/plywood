@@ -125,7 +125,7 @@
 
       <div class="row featurette">
         <div class="col-md-7 order-md-2">
-          <h2 class="featurette-heading">Стул &laquo;Guido&raquo;
+          <h2 class="featurette-heading">Стул &laquo;Гвидо&raquo;
               <span class="badge badge-primary">Хит продаж!</span></h2>
             
           <p class="lead">Габариты: 518&times;636&times;846 см.
