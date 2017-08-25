@@ -125,16 +125,15 @@
 
       <div class="row featurette">
         <div class="col-md-7 order-md-2">
-            
-          <h2>Стул &laquo;Guido&raquo;
-              <span class="badge badge-primary"><br>Хит продаж!</span></h2>
+          <h2 class="featurette-heading">Стул &laquo;Guido&raquo;
+              <span class="badge badge-primary">Хит продаж!</span></h2>
             
           <p class="lead">Габариты(мм) ДхШхВ: 518х636х846
               <br>Материал: березовая фанера
               <br>Покрытие на выбор: краска/лак/без покрытия
               <br>Цвет на выбор
-              <br><span class="badge badge-success"><strong>3980 ₽</strong></span>
-              <br><strong>Закажите прямо сейчас +7 906 712-1001</strong>
+              <h2><span class="badge badge-success"><strong>3980 ₽</strong></span></h2>
+              <br><strong>Звоните: +7 906 712-1001</strong>
             </p>
 		  
         </div>
