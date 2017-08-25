@@ -131,9 +131,9 @@
           <p class="lead">Габариты: 518&times;636&times;846 см.
               <br>Материал: березовая фанера
               <br>Покрытие на выбор:
-              <span class="badge badge-secondary">краска</span>
-              <span class="badge badge-secondary">лак</span>
-              <span class="badge badge-secondary">без покрытия</span>
+              <span class="badge badge-light">краска</span>
+              <span class="badge badge-light">лак</span>
+              <span class="badge badge-light">без покрытия</span>
               <br>Цвет на выбор
               <h2><span class="badge badge-success"><strong>3980 ₽</strong></span></h2>
               <br><strong>Звоните: +7 906 712-1001</strong>
