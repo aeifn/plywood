@@ -215,7 +215,6 @@
               <br>
               Цвет на выбор
             <h2><span class="badge badge-success">4872  ₽</span></h2>
-              <br>
             <br><strong>Закажите по телефону: +7 906 712-1001</strong>        
             </p>
         </div>
