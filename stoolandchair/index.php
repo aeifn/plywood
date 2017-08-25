@@ -281,7 +281,9 @@
       <div class="row featurette">
         <div class="col-md-7 order-md-2">
           <h2 class="featurette-heading">Стул &laquo;Барный&raquo;
-              <span class="badge badge-primary">Хит продаж!</span></h2>
+              <span class="badge badge-primary">Хит продаж!</span>
+			  <br/>
+              <span class="text-muted">Добавит атмосферы</span></h2>
           <p class="lead">
               Материал: 
               <span class="badge badge-light">березовая фанера</span>
