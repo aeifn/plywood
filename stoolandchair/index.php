@@ -284,7 +284,7 @@
           <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
         <div class="col-md-5 order-md-1">
-          <img class="featurette-image img-fluid mx-auto" src="img/chair3.jpg" alt="Generic placeholder image">
+          <img class="featurette-image img-fluid mx-auto" src="img/chair1.jpg" alt="Generic placeholder image">
         </div>
       </div>	  
 	  
@@ -297,7 +297,7 @@
           <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-fluid mx-auto" src="img/chair1.jpg" alt="Generic placeholder image">
+          <img class="featurette-image img-fluid mx-auto" src="img/chair4.jpg" alt="Generic placeholder image">
         </div>
       </div>
 	  
@@ -310,7 +310,7 @@
           <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
         <div class="col-md-5 order-md-1">
-          <img class="featurette-image img-fluid mx-auto" src="img/chair4.jpg" alt="Generic placeholder image">
+          <img class="featurette-image img-fluid mx-auto" src="img/chair5.jpg" alt="Generic placeholder image">
         </div>
       </div>	  
 	  
@@ -323,7 +323,7 @@
           <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-fluid mx-auto" src="img/chair5.jpg" alt="Generic placeholder image">
+          <img class="featurette-image img-fluid mx-auto" src="img/chair8.jpg" alt="Generic placeholder image">
         </div>
       </div>
 	
@@ -336,47 +336,47 @@
           <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
         <div class="col-md-5 order-md-1">
-          <img class="featurette-image img-fluid mx-auto" src="img/chair8.jpg" alt="Generic placeholder image">
-        </div>
-      </div>	  
-	  
-<!--left text Alignment-->
-      <hr class="featurette-divider">
-
-      <div class="row featurette">
-        <div class="col-md-7">
-          <h2 class="featurette-heading">Разборный стул №1. <span class="text-muted">It'll blow your mind.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-        </div>
-        <div class="col-md-5">
           <img class="featurette-image img-fluid mx-auto" src="img/chair15.jpg" alt="Generic placeholder image">
         </div>
-      </div>
+      </div>	  
 	  
-<!--rigth text Alignment-->
+<!--left text Alignment-->
       <hr class="featurette-divider">
 
       <div class="row featurette">
-        <div class="col-md-7 order-md-2">
-          <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
+        <div class="col-md-7">
+          <h2 class="featurette-heading">Разборный стул №1. <span class="text-muted">It'll blow your mind.</span></h2>
           <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
-        <div class="col-md-5 order-md-1">
+        <div class="col-md-5">
           <img class="featurette-image img-fluid mx-auto" src="img/chair2.jpg" alt="Generic placeholder image">
         </div>
-      </div>	  
+      </div>
 	  
-<!--left text Alignment-->
+<!--rigth text Alignment-->
       <hr class="featurette-divider">
 
       <div class="row featurette">
-        <div class="col-md-7">
-          <h2 class="featurette-heading">Разборный стул №1. <span class="text-muted">It'll blow your mind.</span></h2>
+        <div class="col-md-7 order-md-2">
+          <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
           <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
-        <div class="col-md-5">
+        <div class="col-md-5 order-md-1">
           <img class="featurette-image img-fluid mx-auto" src="img/stool2.jpg" alt="Generic placeholder image">
         </div>
+      </div>	  
+	  
+<!--left text Alignment-->
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading">Разборный стул №1. <span class="text-muted">It'll blow your mind.</span></h2>
+          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-fluid mx-auto" src="img/stool10.jpg" alt="Generic placeholder image">
+        </div>
       </div>
 
 <!--rigth text Alignment-->
@@ -388,7 +388,7 @@
           <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
         <div class="col-md-5 order-md-1">
-          <img class="featurette-image img-fluid mx-auto" src="img/stool10.jpg" alt="Generic placeholder image">
+          <img class="featurette-image img-fluid mx-auto" src="img/stool14.jpg" alt="Generic placeholder image">
         </div>
       </div>	  
 	  
@@ -401,7 +401,7 @@
           <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-fluid mx-auto" src="img/stool14.jpg" alt="Generic placeholder image">
+          <img class="featurette-image img-fluid mx-auto" src="img/stool13.jpg" alt="Generic placeholder image">
         </div>
       </div>
 	  
@@ -414,7 +414,7 @@
           <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
         <div class="col-md-5 order-md-1">
-          <img class="featurette-image img-fluid mx-auto" src="img/stool13.jpg" alt="Generic placeholder image">
+          <img class="featurette-image img-fluid mx-auto" src="img/stool15.jpg" alt="Generic placeholder image">
         </div>
       </div>	
 
@@ -427,23 +427,9 @@
           <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-fluid mx-auto" src="img/stool15.jpg" alt="Generic placeholder image">
-        </div>
-      </div>
-	  
-<!--rigth text Alignment-->
-      <hr class="featurette-divider">
-
-      <div class="row featurette">
-        <div class="col-md-7 order-md-2">
-          <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-        </div>
-        <div class="col-md-5 order-md-1">
           <img class="featurette-image img-fluid mx-auto" src="img/stool16.jpg" alt="Generic placeholder image">
         </div>
-      </div>	  
-	  
+      </div>  
 
       <hr class="featurette-divider">
 
