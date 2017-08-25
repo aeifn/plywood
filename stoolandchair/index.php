@@ -116,7 +116,7 @@
       <div class="row featurette">
         <div class="col-md-7">
             
-          <h2 class="featurette-heading">Стул &laquo;Саломон&raquo;<span class="text-muted"><br>Статность в каждой детали</span></h2>
+          <h2 class="featurette-heading">Стул &laquo;Соломон&raquo;<span class="text-muted"><br>Статность в каждой детали</span></h2>
             
           <p class="lead">Материал: 
               <span class="badge badge-light">березовая фанера</span>
@@ -165,8 +165,8 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Стул &laquo;Triple&raquo;<br/>
-              <span class="text-muted">Специально для тещи</span></h2>
+          <h2 class="featurette-heading">Стул &laquo;Трио&raquo;<br/>
+              <span class="text-muted">Никто не устоит</span></h2>
           <p class="lead">Материал: 
               <span class="badge badge-light">березовая фанера</span>
               <br>
@@ -176,7 +176,7 @@
               <span class="badge badge-light">без покрытия</span>
               <br>
               Цвет на выбор
-            <h2><span class="badge badge-success">4872  ₽</span></h2>
+            <h2><span class="badge badge-success">4170  ₽</span></h2>
             <br><strong>Закажите по телефону: +7 906 712-1001</strong>        
             </p>
         </div>
@@ -190,9 +190,20 @@
 
       <div class="row featurette">
         <div class="col-md-7 order-md-2">
-          <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-        </div>
+          <h2 class="featurette-heading">Стул &laquo;Бренди&raquo;
+              <br/>
+              <span class="text-muted">Будь самим собой</span></h2>
+          <p class="lead">
+              Материал: 
+              <span class="badge badge-light">березовая фанера</span>
+              <br>Покрытие:
+              <span class="badge badge-light">краска</span>
+              <span class="badge badge-light">лак</span>
+              <span class="badge badge-light">без покрытия</span>
+              <br>Цвет на выбор
+            <h2><span class="badge badge-success">4934  ₽</span></h2>
+            <br><strong>Звоните прямо сейчас: +7 906 712-1001</strong>        
+          </div>
         <div class="col-md-5 order-md-1">
           <img class="featurette-image img-fluid mx-auto" src="img/chair3.jpg" alt="Generic placeholder image">
         </div>
@@ -203,8 +214,20 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Разборный стул №1. <span class="text-muted">It'll blow your mind.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <h2 class="featurette-heading">Стул &laquo;Модерн&raquo;<br/>
+              <span class="text-muted">Новые формы</span></h2>
+          <p class="lead">Материал: 
+              <span class="badge badge-light">березовая фанера</span>
+              <br>
+              Покрытие на выбор:
+              <span class="badge badge-light">краска</span>
+              <span class="badge badge-light">лак</span>
+              <span class="badge badge-light">без покрытия</span>
+              <br>
+              Цвет на выбор
+            <h2><span class="badge badge-success">5021  ₽</span></h2>
+            <br><strong>Закажите по телефону: +7 906 712-1001</strong>        
+            </p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-fluid mx-auto" src="img/chair10.jpg" alt="Generic placeholder image">
@@ -216,9 +239,20 @@
 
       <div class="row featurette">
         <div class="col-md-7 order-md-2">
-          <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-        </div>
+          <h2 class="featurette-heading">Стул &laquo;Пазл&raquo;
+              <br/>
+              <span class="text-muted"></span></h2>
+          <p class="lead">
+              Материал: 
+              <span class="badge badge-light">березовая фанера</span>
+              <br>Покрытие:
+              <span class="badge badge-light">краска</span>
+              <span class="badge badge-light">лак</span>
+              <span class="badge badge-light">без покрытия</span>
+              <br>Цвет на выбор
+            <h2><span class="badge badge-success">3914  ₽</span></h2>
+            <br><strong>Звоните прямо сейчас: +7 906 712-1001</strong>        
+          </div>
         <div class="col-md-5 order-md-1">
           <img class="featurette-image img-fluid mx-auto" src="img/chair6.jpg" alt="Generic placeholder image">
         </div>
@@ -229,8 +263,20 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Разборный стул №1. <span class="text-muted">It'll blow your mind.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <h2 class="featurette-heading">Стул &laquo;Пикник&raquo;<br/>
+              <span class="text-muted">Собери сам</span></h2>
+          <p class="lead">Материал: 
+              <span class="badge badge-light">березовая фанера</span>
+              <br>
+              Покрытие на выбор:
+              <span class="badge badge-light">краска</span>
+              <span class="badge badge-light">лак</span>
+              <span class="badge badge-light">без покрытия</span>
+              <br>
+              Цвет на выбор
+            <h2><span class="badge badge-success">4519  ₽</span></h2>
+            <br><strong>Закажите по телефону: +7 906 712-1001</strong>        
+            </p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-fluid mx-auto" src="img/chair2.jpg" alt="Generic placeholder image">
