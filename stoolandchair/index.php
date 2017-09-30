@@ -77,11 +77,7 @@
       <!-- START THE FEATURETTES -->
         
 <!--rigth text Alignment-->
-        <div class="col-md-5 order-md-1">
-          <img class="featurette-image img-fluid mx-auto" src="img/chair16.jpg" alt="Generic placeholder image">
-        </div>
-      </div>
- 
+
  <hr class="featurette-divider">
 
       <div class="row featurette">
@@ -104,6 +100,11 @@
             </p>
 		  
         </div>
+         <div class="col-md-5 order-md-1">
+          <img class="featurette-image img-fluid mx-auto" src="img/chair16.jpg" alt="Generic placeholder image">
+        </div>
+		
+      </div>
         
         
 	  
