@@ -54,8 +54,8 @@
 <br />
         <!-- Джумботрон -->
                 <div class="jumbotron">
-          <h1 class="display-3">Лучшие табуретки и стулья из фанеры!</h1>
-          <p class="lead">Изготавливаем из лучших сортов фанеры на ультрасовременном роботизированном оборудовании.</p>
+          <h1 class="display-3">Дизайнерские табуретки и стулья из фанеры ручной работы.</h1>
+          <p class="lead">Изготавливаем из лучших сортов фанеры на ультрасовременном оборудовании.</p>
                     <!--
           <hr class="my-4">
           <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
@@ -77,7 +77,12 @@
       <!-- START THE FEATURETTES -->
         
 <!--rigth text Alignment-->
-      <hr class="featurette-divider">
+        <div class="col-md-5 order-md-1">
+          <img class="featurette-image img-fluid mx-auto" src="img/chair16.jpg" alt="Generic placeholder image">
+        </div>
+      </div>
+ 
+ <hr class="featurette-divider">
 
       <div class="row featurette">
         <div class="col-md-7 order-md-2">
@@ -101,10 +106,7 @@
         </div>
         
         
-        <div class="col-md-5 order-md-1">
-          <img class="featurette-image img-fluid mx-auto" src="img/chair16.jpg" alt="Generic placeholder image">
-        </div>
-      </div>	  
+	  
 	  
 <!--left text Alignment-->
       <hr class="featurette-divider">
@@ -500,7 +502,7 @@
       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">Табурет &laquo;Клевер&raquo;<br/>
-              <span class="text-muted"></span></h2>
+              <span class="text-muted">Удачная покупка</span></h2>
           <p class="lead">Материал: 
               <span class="badge badge-light">березовая фанера</span>
               <br>
